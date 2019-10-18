@@ -14,7 +14,7 @@ A database is made to store the invention details like the name of the invention
 
 **Award_Database**(Category,Award_name,Country)
 
-ER Diagram
+## ER Diagram
 
 ![ER](https://github.com/JaganKaartik/Database-Management-System-Projects/blob/master/Invention-Management-System/ERD.png)
 
